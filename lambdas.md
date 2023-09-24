@@ -1,7 +1,7 @@
 # Lambdas
 
 ## Overview
-Lets say I want to create a thread that prints "hello world". The most common to do is to create a Printer class which implements the Runnable interface. We then provide the method body for the run method that is present in the Runnable method. 
+Lets say I want to create a thread that prints "hello world". The most common way to do is to create a Printer class which implements the Runnable interface. We then provide the method body for the run method that is present in the Runnable method. 
 This seems like a lot of work for achieving something simple. 
 There is where Lambdas come into the picture. They help us write compact code. 
 
