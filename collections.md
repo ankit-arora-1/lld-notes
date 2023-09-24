@@ -5,7 +5,8 @@
 ---
 A collection is an object that represents a set of Objects (example: ArrayList). Collections framework represents a group of interfaces and classes to work easily with collections. 
 Below is a rough hierachy for collections framework (There is no need to remember this): 
-<Add collections diagram here>
+
+![collections](https://github.com/ankit-arora-1/lld-notes/assets/135776379/9b74e903-dd77-4dda-89aa-825bd9736f9c)
 
 Advantages of collection: 
 - Consistent API: The API has a basic set of interfaces like Collection, Set, List, or Map, all the classes (ArrayList, LinkedList, Vector, etc) that implement these interfaces have some common set of methods.
